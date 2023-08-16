@@ -6,6 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@vercel/postgres": "^0.4.1",
     "date-fns": "^2.30.0",
     "gray-matter": "^4.0.3",
     "next": "latest",
